@@ -1,0 +1,28 @@
+img 
+{
+    display: block;
+    width: 50%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 70%;
+    box-shadow: 0px 0px 10px 10px #aaaaaa;
+}
+
+body
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 20px;
+    background: rgb(0,0,0);
+    background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(102,102,102,1) 50%, rgba(0,0,0,1) 100%);
+    color: #ffffff;
+}
+
+.darkcontent
+{
+    border-radius: 25px;
+    background-color: #000000;
+    margin: 20px;
+    padding: 10px;
+    color: white;
+}
